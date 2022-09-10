@@ -12,3 +12,9 @@
 </p>
 
 ---------
+  
+  # ❗ Warning
+
+WhatsApp bot is still in the development stage, so there are a few bugs
+
+WhatsApp Connection (BETA, not working perfectly)
