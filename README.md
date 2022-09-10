@@ -7,7 +7,7 @@
 
 <p align="center">
 
-  <a href="https://github.com/KafuuChann"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=KafuuChann+BOT+Multi+Device;Base+ori+by+Hisoka;Recode+By+Hisoka;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
+  <a href="https://github.com/KafuuChann"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=KafuuChann+BOT+Multi+Device;Base+ori+by+Hisoka;Recode+By+KafuuChann;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 
 </p>
 
