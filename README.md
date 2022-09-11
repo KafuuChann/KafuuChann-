@@ -3,7 +3,7 @@
 
 </p>
 
-<h1 align="center">KafuuChan - MD</h1>
+<h1 align="center">froks - master</h1>
 
 <p align="center">
 
